@@ -1,0 +1,4 @@
+Django
+Pillow
+pyTelegramBotAPI
+psycopg2-binary
